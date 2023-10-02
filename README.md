@@ -4,10 +4,12 @@ Relatório DOC: [Link para o Documento](https://docs.google.com/document/d/1IEBl
 
 TL;DR (Resumo):
 
-A proposta do trabalho é a seguinte::
+A proposta do trabalho é a seguinte:
+
 ![Imagem do WhatsApp de 2023-09-28 à(s) 18 14 36_925f17ac](https://github.com/cz-8/Metodos_Intervalares/assets/137376594/965ea300-2556-45d6-abd4-aa5fad7ef3bb)
 
 Para aplicar esses quatro métodos, foi-nos atribuída a tarefa de selecionar um exercício do livro. No nosso caso, optamos pelo seguinte:
+
 ![image](https://github.com/cz-8/Metodos_Intervalares/assets/137376594/5bcc64b0-7c03-4d94-92d9-5a292c2bef6d)
 
 Os resultados obtidos foram os seguintes:
